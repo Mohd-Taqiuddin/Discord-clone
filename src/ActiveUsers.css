@@ -1,0 +1,25 @@
+.activeUsers {
+  background-color: #2f3135;
+  display: flex;
+  flex: 0.2;
+  flex-direction: column;
+}
+
+.activeUsers_header {
+  color: white;
+  font-weight: 400;
+  padding-left: 16px;
+  margin-bottom: 8px;
+}
+
+.activeUsers_ppl {
+  display: flex;
+}
+
+.userName {
+  padding-left: 20px;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  padding-top: 6px;
+}
